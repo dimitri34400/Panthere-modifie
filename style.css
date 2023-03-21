@@ -38,7 +38,9 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-
+p{
+    font-size: 15px;
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -676,10 +678,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -775,7 +773,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine {
